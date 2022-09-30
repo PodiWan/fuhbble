@@ -4,4 +4,4 @@
 </div>
 <br>
 
-An open-source web search engine built with love and care using [Julia](https://julialang.org), [Node.js](https://nodejs.org/en/) and [SvelteKit](https://kit.svelte.dev).
+An open-source web search engine built with love and care using [Julia](https://julialang.org), [NestJS](https://nestjs.com) and [SvelteKit](https://kit.svelte.dev).
